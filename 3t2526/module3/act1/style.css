@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    background-color: grey;
+}
+img {
+    width: 80px;
+    height: auto;
+    border-radius: 4px;
+}
